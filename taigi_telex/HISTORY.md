@@ -1,6 +1,6 @@
-Taigi_telex Change History
+Taigi Telex Change History
 ====================
 
-2.0 (2024-04-04)
+2.0 (2024-06-16)
 ----------------
 * Created by cathaylab

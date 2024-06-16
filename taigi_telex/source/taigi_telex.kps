@@ -16,7 +16,7 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Taigi_telex</Name>
+    <Name URL="">Taigi Telex</Name>
     <Copyright URL="">© cathaylab</Copyright>
     <Author URL="">cathaylab</Author>
     <Version URL=""></Version>
@@ -53,6 +53,18 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+      <Name>taigi_telex.ico</Name>
+      <Description>File taigi_telex.ico</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+    <File>
+      <Name>taigi_telex.keyman-touch-layout</Name>
+      <Description>File taigi_telex.keyman-touch-layout</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.keyman-touch-layout</FileType>
+    </File>
+    <File>
       <Name>taigitelex_.png</Name>
       <Description>File taigitelex_.png</Description>
       <CopyLocation>0</CopyLocation>
@@ -82,20 +94,14 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
-    <File>
-      <Name>taigi_telex.keyman-touch-layout</Name>
-      <Description>File taigi_telex.keyman-touch-layout</Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.keyman-touch-layout</FileType>
-    </File>
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Taigi_telex</Name>
+      <Name>Taigi Telex</Name>
       <ID>taigi_telex</ID>
       <Version>2.0</Version>
       <Languages>
-        <Language ID="nan-Latn-TW">Tâi-gí</Language>
+        <Language ID="nan-Latn-TW">Tâi-gí Pe̍h-ōe-jī</Language>
       </Languages>
     </Keyboard>
   </Keyboards>

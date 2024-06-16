@@ -1,11 +1,11 @@
-Taigi_telex keyboard
+Taigi Telex keyboard
 ==============
 
 Version 2.0
 
 Description
 -----------
-Taigi_telex generated from template
+Taigi Telex generated from template
 
 Links
 -----

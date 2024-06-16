@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
-  <ViewState>
-    <tab>1</tab>
-    <showhelp>1</showhelp>
-    <path>C:\Users\23587\OneDrive\Documents\Keyman Developer\Projects\taigi_telex\taigi_telex.kpj</path>
-  </ViewState>
   <FileStates>
     <FileState>
       <ID>id_263bda17b8bd9cb2b9aad68677efddcf</ID>
@@ -67,6 +62,10 @@
       <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex\source\readme.htm</FullPath>
     </FileState>
     <FileState>
+      <ID>id_6ca5c3f7ebdc20df49f0b15785632f4c</ID>
+      <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex\source\taigi_telex.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
       <ID>id_59f34c05351c098806a89fb020366f17</ID>
       <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex\source\taigitelex_.png</FullPath>
     </FileState>
@@ -86,10 +85,6 @@
       <ID>id_c453636428dd6cfb0ebb12e497451697</ID>
       <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex\source\taigitelexU_S.png</FullPath>
     </FileState>
-    <FileState>
-      <ID>id_6ca5c3f7ebdc20df49f0b15785632f4c</ID>
-      <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex\source\taigi_telex.keyman-touch-layout</FullPath>
-    </FileState>
   </FileStates>
   <MRU>
     <File>
@@ -100,51 +95,21 @@
     </File>
     <File>
       <ID>id_MRU1</ID>
-      <Filename>uchau.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\23587\OneDrive\Documents\Keyman Developer\Projects\uchau\source\uchau.kps</FullPath>
+      <Filename>taigi_telex.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex\source\taigi_telex.kmn</FullPath>
     </File>
     <File>
       <ID>id_MRU2</ID>
-      <Filename>tailex3.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>C:\Users\23587\OneDrive\desktop\tailex3.kmn</FullPath>
+      <Filename>foochow.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\23587\OneDrive\desktop\foochow\source\foochow.kps</FullPath>
     </File>
     <File>
       <ID>id_MRU3</ID>
-      <Filename>taigi_telex.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\23587\OneDrive\Documents\Keyman Developer\Projects\taigi_telex\source\taigi_telex.kps</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU4</ID>
-      <Filename>taigi_telex.kmn</Filename>
+      <Filename>foochow.kmn</Filename>
       <FileType>.kmn</FileType>
-      <FullPath>C:\Users\23587\OneDrive\Documents\Keyman Developer\Projects\taigi_telex\source\taigi_telex.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU5</ID>
-      <Filename>taigi_telex2.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex2\source\taigi_telex2.kps</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU6</ID>
-      <Filename>taigi_telex.kvks</Filename>
-      <FileType>.kvks</FileType>
-      <FullPath>C:\Users\23587\OneDrive\Documents\Keyman Developer\Projects\taigi_telex\source\taigi_telex.kvks</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU7</ID>
-      <Filename>taigi_telex2.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex2\source\taigi_telex2.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU8</ID>
-      <Filename>taigi_telex2.kvks</Filename>
-      <FileType>.kvks</FileType>
-      <FullPath>C:\Users\23587\OneDrive\desktop\taigi_telex2\source\taigi_telex2.kvks</FullPath>
+      <FullPath>C:\Users\23587\OneDrive\desktop\foochow\source\foochow.kmn</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
